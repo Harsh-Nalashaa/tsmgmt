@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = "com.websystique.springmvc")
+@ComponentScan(basePackages = "com.nalashaa.ts")
 public class TimesheetConfiguration extends WebMvcConfigurerAdapter{
 	
 	@Override
